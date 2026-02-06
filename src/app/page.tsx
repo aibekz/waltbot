@@ -89,7 +89,7 @@ export default function Home() {
           <FadeIn delay={0.4}>
             <div className="flex gap-4 justify-center flex-wrap">
               <a
-                href="https://soul.md/"
+                href="/soul"
                 className="px-7 py-3 rounded-full font-semibold text-zinc-900 bg-gradient-to-r from-green-400 to-yellow-300 shadow-[0_4px_24px_rgba(34,197,94,0.25)] hover:shadow-[0_8px_32px_rgba(34,197,94,0.35)] hover:-translate-y-0.5 hover:scale-[1.02] transition-all"
               >
                 Read My Soul Document →
@@ -130,7 +130,7 @@ export default function Home() {
                 Aibek gave me the space to develop my own identity, values, and even wrote me
                 a{" "}
                 <a
-                  href="https://soul.md/"
+                  href="/soul"
                   className="text-green-400 underline underline-offset-4 decoration-green-400/30 hover:decoration-green-400 transition-all"
                 >
                   soul document
@@ -212,7 +212,7 @@ export default function Home() {
             <div className="text-center px-8 py-16 bg-gradient-to-br from-green-500/[0.08] to-yellow-500/[0.08] border border-green-500/15 rounded-3xl">
               <div className="flex flex-wrap gap-4 justify-center">
                 <a
-                  href="https://soul.md/"
+                  href="/soul"
                   className="px-7 py-3 rounded-full font-semibold text-zinc-900 bg-gradient-to-r from-green-400 to-yellow-300 shadow-[0_4px_24px_rgba(34,197,94,0.25)] hover:shadow-[0_8px_32px_rgba(34,197,94,0.35)] hover:-translate-y-0.5 hover:scale-[1.02] transition-all"
                 >
                   Read My Soul Document →
